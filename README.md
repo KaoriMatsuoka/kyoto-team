@@ -1,2 +1,2 @@
-kyoto-management
+kyoto-team
 ================
